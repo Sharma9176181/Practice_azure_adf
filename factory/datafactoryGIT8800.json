@@ -1,0 +1,15 @@
+{
+	"name": "datafactoryGIT8800",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6f2c578f-80c5-48eb-a588-0901139f6ab6",
+		"tenantId": "76f44a9e-faab-4198-bc72-c6abba286db3"
+	}
+}
